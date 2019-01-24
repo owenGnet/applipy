@@ -15,4 +15,5 @@
 ## page 5
 
 ![Figure 1.4](img/figure1.4.png "Figure 1.4")
+
 ![Figure 1.4a](img/figure1.4a.png "Figure 1.4a")
